@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 - **Tech Adventures:** Besides MOAGLOOO, I’m experimenting with new libraries, learning about APIs, and testing out different coding techniques. 
 
 ## 🛠️ Tech I Use
-- **Languages & Tools:** HTML, CSS, JavaScript, Python, and some machine learning tools like flask.
+- **Languages & Tools:** HTML, CSS, JavaScript, Python, and some tools like flask.
   
 ## 📬 How to Reach Me
 - You can always send me a message here on GitHub! If you want to chat about code or just share cool ideas, I’m all ears! 👂
