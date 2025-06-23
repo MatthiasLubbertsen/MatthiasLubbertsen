@@ -1,6 +1,7 @@
 # Hey! I'm @Mlubbertsen-tech 👋
 
-Welcome to my GitHub profile! Here’s a bit about me:
+Welcome to my GitHub profile! 
+<!-- Here’s a bit about me:
 
 ## 👾 About Me
 - **Pronouns:** he/him (just to keep it simple! 😊)
@@ -23,8 +24,8 @@ Welcome to my GitHub profile! Here’s a bit about me:
 
 <!-- ## 📡 Connect with Me
 - [Personal Website (matthias.lubbertsen.com)](http://matthias.lubbertsen.com)
-- [Personal Website (matthias.lubbertsen.com)](http://matthias.lubbertsen.com/contat) (If you have one) -->
+- [Personal Website (matthias.lubbertsen.com)](http://matthias.lubbertsen.com/contat) (If you have one) -- >
 
 ---
 
-Feel free to check out my repositories, and let's collaborate on something cool! 🚀
+Feel free to check out my repositories, and let's collaborate on something cool! 🚀 -->
