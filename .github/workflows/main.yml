@@ -1,14 +1,18 @@
 name: Breakout Game
 
 on:
-  workflow_dispatch: # zodat je het handmatig kunt starten
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # draait elke dag om middernacht
+    - cron: '0 0 * * *' # dagelijks
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: generate-breakout-game-from-github-contribution-graph
         uses: cyprieng/github-breakout@v1.2.1
+        with:
+          github_username: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
