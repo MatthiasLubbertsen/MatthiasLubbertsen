@@ -1,2 +1,14 @@
-- name: generate-breakout-game-from-github-contribution-graph
-  uses: cyprieng/github-breakout@v1.2.1
+name: Breakout Game
+
+on:
+  workflow_dispatch: # zodat je het handmatig kunt starten
+  schedule:
+    - cron: '0 0 * * *' # draait elke dag om middernacht
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: generate-breakout-game-from-github-contribution-graph
+        uses: cyprieng/github-breakout@v1.2.1
