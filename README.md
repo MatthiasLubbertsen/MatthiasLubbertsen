@@ -6,3 +6,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatthiasLubbertsen/MatthiasLubbertsen/refs/heads/github-breakout/images/breakout-light.svg">
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/MatthiasLubbertsen/MatthiasLubbertsen/refs/heads/github-breakout/images/breakout-light.svg">
 </picture>
+
+![](https://hit.yhype.me/github/profile?account_id=192709838)
